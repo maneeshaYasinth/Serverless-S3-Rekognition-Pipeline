@@ -301,5 +301,3 @@ This section outlines the steps to deploy the Serverless Image Labeler.
 ---
 
 This `README.md` file covers everything you need. Create the GitHub repository, upload your code files (Python, HTML), add your screenshots and video, and then paste this Markdown content into your `README.md`.
-
-Let me know if you'd like to work on Project 2 or 3, or if you have any questions about this documentation\!
