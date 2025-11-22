@@ -31,7 +31,7 @@ The application leverages the following AWS services:
 
 **Architecture Diagram:**
 
-![Serverless Image Labeler Architecture](./assests/s3%20label.png)
+![Serverless Image Labeler Architecture](./assests/archi2.png)
 *(Replace `YOUR_ARCHITECTURE_DIAGRAM_IMAGE_URL` with the URL to your diagram image)*
 
 ## Features
